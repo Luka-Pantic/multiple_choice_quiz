@@ -1,0 +1,20 @@
+Wie viele Diagonalen hat ein Dreieck?,0,1,2,3
+Wie lange braucht es mit einem Flugzeug um die Welt zu reisen?,72 Stunden,48 Stunden,180 Stunden,15 Stunden
+Was ist die Wurzel von 225?,15,13,55,25
+Was ist die Hauptstadt der Philippinen?,Manila,Beijing,Hong Kong,Jakarta
+Wann endete der zweite Weltkrieg?,1945,1943,1944,1946
+Was heisst «Zauberstab» auf Französisch?,Baguette magique,Arbre magique,Arbre mageux,Baguette mageux
+Wie viele Länder gibt es in Südamerika?,13,8,5,11
+Wie viele Liter Blut hat ein erwachsener Mensch?,Circa 5 bis 6 Liter,Circa 3 bis 4 Liter,Circa 7 bis 8 Liter,Circa 9 bis 10 Liter
+Wie weit ist der Mond von der Erde entfernt?,Circa 390'000 Kilometer,Circa 30'000 Kilometer,Circa 490'000 Kilometer,Circa 110’000 Kilometer
+Wie viele Buchstaben hat das hawaiianische Alphabet?,12,24,26,30
+Welcher ist der «rote Planet» unseres Sonnensystems?,Mars,Merkur,Venus,Jupiter
+Wie heisst der letze Buchstabe des griechischen Alphabets?,Omega,Alpha,Ypsilon,Gamma
+Was ist das lateinische Wort für Gold?,Aurum,Auliminium,Aufela,Aumali
+Was ist die Hauptstadt der Vereinigten Staaten?,Washington D.C. ,Washington,New York,Los Angeles
+Wie hoch ist das höchste Gebäude der Welt (Burj Khalifa)?,828m,1km,934m,765m
+Welches Land hat die tiefste Kriminalitäts-Rate?,Island,Schweiz,Norwegen,Neuseeland
+Wie alt ist Queen Elizabeth II?,94,99,90,92
+Welcher Fluss ist der längster der Welt?,Nil,Amazonas,Mississippi,Kongo
+Welcher ist der grösste Planet unseres Sonnensystems?,Jupiter,Saturn,Neptun,Sonne
+Welche Blutgruppe ist am meisten verbreitet?,0,A,B,AB
